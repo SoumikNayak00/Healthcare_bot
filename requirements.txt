@@ -1,0 +1,6 @@
+gradio==3.34.0
+gradio_client==0.2.6
+ohmeow-blurr==1.0.5
+torch==1.13.1
+transformers==4.33.2
+
